@@ -29,7 +29,7 @@ class WelcomePage extends StatelessWidget {
                 child: Container(
                   height: 80,
                   child: Text(
-                    "Pass Pass ",
+                    "KORSA",
                     style: GoogleFonts.poppins(
                       color: d_red,
                       fontSize: 20,
